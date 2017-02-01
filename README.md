@@ -1,2 +1,2 @@
 # wandermind
-A python-pelican theme designed for my personal ste
+A simple distraction-free python-pelican theme being designed for my personal site wandermind.in
